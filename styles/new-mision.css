@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    font-family: sans-serif;
+}
+#bannerimage{
+    background-image: url('../images/banner/banner2.png');
+    width: 1600px;
+    height: 809px;
+    left: 1645px;
+    top: 130px;
+
+}
+/* banner styles */
+.banner{
+    display: flex;
+    align-items:center;
+   margin: 0 200px;
+}
