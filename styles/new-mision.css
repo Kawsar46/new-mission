@@ -79,5 +79,9 @@
 .my-plan{
     display: flex;
     font-size: 30px;
-    
+
+}
+.my-plan{
+    display: flex;
+    gap:20px
 }
