@@ -10,7 +10,8 @@
     text-align: center;
     margin-top: 100px;
     margin-left: 500px;
-    padding: 200px;
+    padding: 50px;
+   
 
 
 }
@@ -48,4 +49,35 @@
     
     align-items:center;
    margin: 0 200px;
+}
+/* section styles */
+.section-title{
+    display: flex;
+    padding: 100px;
+    margin-left: 700px;
+    text-align: center;
+
+    
+}
+.section-sub-title{
+    display: block;
+    margin-left: 200px;
+    text-align: center;
+    justify-content: left;
+    font-size: 20px;
+}
+/* list-items */
+.list-item{
+    font-size: 20px;
+    list-style-type: decimal-leading-zero ;
+    display: block;
+    margin-left: 600px;
+    margin-top: 10px;
+    color:  #444343;;
+    
+}
+.my-plan{
+    display: flex;
+    font-size: 30px;
+    
 }
