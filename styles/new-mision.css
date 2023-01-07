@@ -2,17 +2,50 @@
     margin: 0;
     font-family: sans-serif;
 }
+#header{
+
+}
+.banner-title{
+    display:inline-block;
+    text-align: center;
+    margin-top: 100px;
+    margin-left: 500px;
+    padding: 200px;
+
+
+}
+.banner-sub-title{
+    display: block;
+    text-align: center;
+    padding: 10px;
+}
+.btn-primary{
+    display: flex;
+    text-align: center;
+    background-color: chocolate;
+    border:0;
+    padding: 10px;
+    font-size: 50px;
+    margin-top: 10px;
+    margin-left: 800px;
+    display: flex;
+    border-radius: 10px;
+}
 #bannerimage{
     background-image: url('../images/banner/banner2.png');
     width: 1600px;
     height: 809px;
     left: 1645px;
     top: 130px;
+    margin-left: 165px;
+    margin-top: 130px;
+   
 
 }
 /* banner styles */
 .banner{
     display: flex;
+    
     align-items:center;
    margin: 0 200px;
 }
